@@ -6,7 +6,7 @@ const projects = [{
         frontend: "https://github.com/krishnakiriti04/Rentify",
         backend: "https://github.com/krishnakiriti04/RentifyBackend",
         deploymentUrl: "https://zen-rentify.netlify.app/",
-        description: `A single page application for renting vehciles with razorpay integration for payments.`
+        description: `A single page application for renting vehicles with razorpay integration for payments.`
     },
     {
         img: "./assets/img/ticket.jpg",
@@ -19,6 +19,16 @@ const projects = [{
         description: `A single page application on ticket management system built using MERN stack`
     },
     {
+        img: "./assets/img/memories.jpg",
+        name: "Memories *",
+        category: "fullstack",
+        techstack: ['html5', 'css-3', 'mongo', 'react-2', 'nodejs', 'firebase'],
+        frontend: "https://github.com/krishnakiriti04/Memories-frontend",
+        backend: "https://github.com/krishnakiriti04/Memories-backend",
+        deploymentUrl: "https://zen-ticketmanagement.netlify.app/",
+        description: `A web application similar to instagram where users can post media and chat with other users`
+    },
+    {
         img: "./assets/img/bookmyhall.png",
         name: "Book My Hall",
         category: "backend",
@@ -26,7 +36,17 @@ const projects = [{
         frontend: "https://github.com/krishnakiriti04/bookmyhall-frontend",
         backend: "https://github.com/krishnakiriti04/BookMyHall",
         deploymentUrl: "https://bookmyhall-zen.netlify.app/",
-        description: `A Hall booking system developed the backend with the help of Node JS and Express Js`
+        description: `A Hall booking system developed the backend with the help of Node.JS and Express.Js`
+    },
+    {
+        img: "./assets/img/urlshortener.png",
+        name: "URL Shortener",
+        category: "backend",
+        techstack: ['html5', 'css-3', 'bootstrap-4', 'mongo', 'nodejs'],
+        frontend: "https://github.com/krishnakiriti04/URLShortener-frontend",
+        backend: "https://github.com/krishnakiriti04/URLShortener-backend",
+        deploymentUrl: "https://zen-urlshortener.netlify.app/",
+        description: `A simple Web application for shortening the URLs, developed using Node.Js and Express.Js`
     },
     {
         img: "./assets/img/mentors.jpg",
