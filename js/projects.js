@@ -47,6 +47,15 @@ const projects = [{
         description: `A fun and simple two player game where players rolls dice to get a winning score`
     },
     {
+        img: "./assets/img/quiz.jpg",
+        name: "General Trivia",
+        category: "frontend",
+        techstack: ['html5', 'css-3', 'javascript-1'],
+        frontend: "https://github.com/krishnakiriti04/Trivia",
+        deploymentUrl: "https://zen-trivia.netlify.app/",
+        description: `A web app for random category general quiz developed using opentb api`
+    },
+    {
         img: "./assets/img/cricket.jpg",
         name: "Cricket Game",
         category: "frontend",
