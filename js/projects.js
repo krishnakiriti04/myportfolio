@@ -25,7 +25,7 @@ const projects = [{
         techstack: ['html5', 'css-3', 'mongo', 'react-2', 'nodejs', 'firebase'],
         frontend: "https://github.com/krishnakiriti04/Memories-frontend",
         backend: "https://github.com/krishnakiriti04/Memories-backend",
-        deploymentUrl: "https://zen-ticketmanagement.netlify.app/",
+        deploymentUrl: "https://zen-memories.netlify.app/",
         description: `A web application similar to instagram where users can post media and chat with other users`
     },
     {
