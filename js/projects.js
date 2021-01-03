@@ -9,6 +9,16 @@ const projects = [{
         description: `A single page application for renting vehicles with razorpay integration for payments.`
     },
     {
+        img: "./assets/img/memories.jpg",
+        name: "Memories",
+        category: "fullstack",
+        techstack: ['html5', 'css-3', 'mongo', 'react-2', 'nodejs', 'firebase'],
+        frontend: "https://github.com/krishnakiriti04/Memories-frontend",
+        backend: "https://github.com/krishnakiriti04/Memories-backend",
+        deploymentUrl: "https://zen-memories.netlify.app/",
+        description: `A web application similar to instagram where users can post media and chat with other users`
+    },
+    {
         img: "./assets/img/ticket.jpg",
         name: "Ticket Management System",
         category: "fullstack",
@@ -17,16 +27,6 @@ const projects = [{
         backend: "https://github.com/krishnakiriti04/TMTBackend",
         deploymentUrl: "https://zen-ticketmanagement.netlify.app/",
         description: `A single page application on ticket management system built using MERN stack`
-    },
-    {
-        img: "./assets/img/memories.jpg",
-        name: "Memories *",
-        category: "fullstack",
-        techstack: ['html5', 'css-3', 'mongo', 'react-2', 'nodejs', 'firebase'],
-        frontend: "https://github.com/krishnakiriti04/Memories-frontend",
-        backend: "https://github.com/krishnakiriti04/Memories-backend",
-        deploymentUrl: "https://zen-memories.netlify.app/",
-        description: `A web application similar to instagram where users can post media and chat with other users`
     },
     {
         img: "./assets/img/bookmyhall.png",
@@ -95,12 +95,12 @@ const projects = [{
     },
     {
         img: "./assets/img/card.jpg",
-        name: "Invitation card",
+        name: "Description card",
         category: "frontend",
         techstack: ['html5', 'css-3', 'javascript-1'],
         frontend: "https://github.com/krishnakiriti04/Guvi-Tasks/tree/master/Transform",
         deploymentUrl: "https://krishnakiriti04.github.io/Guvi-Tasks/Transform/",
-        description: `A stylish single page card that can be modeled to a greeting or invitation card`
+        description: `A stylish single page card that can be modeled to a greeting or description card`
     }
 
 ]

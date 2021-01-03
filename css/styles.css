@@ -10206,6 +10206,11 @@ p.lead {
     font-size: 3rem;
 }
 
+.techskills li {
+    list-style-type: decimal;
+    color: #ffffff;
+}
+
 section.resume-section {
     display: flex;
     align-items: center;
